@@ -10,13 +10,15 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **a marketplace**
- 
- 🌱 I’m currently learning **Docker, Supabase, AWS**
+ 📱 Currently Building: Mobile applications with React Native and Expo, crafting seamless user experiences.
 
-💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/salesp07/salesp07/issues)**
+🎓 Balancing Life: Pursuing my BSc degree while interning to gain hands-on experience.
 
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+📚 Beyond the Code: I'm a movie buff, TV show binge-watcher, video game enthusiast, and book collector.
+
+⚔️ Fun Fact: "Valar Morghulis" – All men must code. And I do, with passion!
+
+🌍 Let's Connect: Ask me about React, React Native, Node or anything else tech-related!
 
  </div>
  
