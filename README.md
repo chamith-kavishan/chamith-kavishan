@@ -10,7 +10,7 @@
 
 <div align="center">
  
- 📱 Currently Building: Mobile applications with React Native and Expo, crafting seamless user experiences.
+ 📱 Currently Working On: Mobile applications with React Native and Expo, crafting seamless user experiences.
 
 🎓 Balancing Life: Pursuing my BSc degree while interning to gain hands-on experience.
 
