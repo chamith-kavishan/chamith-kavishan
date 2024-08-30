@@ -16,6 +16,8 @@
 
 📚 Beyond the Code: I'm a movie buff, TV show binge-watcher, video game enthusiast, and book collector.
 
+🧠 Coding Philosophy: It's not about writing code; it's about solving problems and creating impact.
+
 ⚔️ Fun Fact: "Valar Morghulis" – All men must code. And I do, with passion!
 
 🌍 Let's Connect: Ask me about React, React Native, Node or anything else tech-related!
