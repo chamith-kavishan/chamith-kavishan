@@ -29,7 +29,7 @@
   <a href="https://www.linkedin.com/in/chamith-kavishan-05877a259/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-  <a href="https://chamithkavishan.github.io" target="_blank">
+  <a href="https://drive.google.com/file/d/1uPWhcinnOy__026sFyWNO-18uyx-_k9Y/view?usp=drive_link" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
 </div>
