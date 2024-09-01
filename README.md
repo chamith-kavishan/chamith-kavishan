@@ -10,7 +10,7 @@
 
 <div align="center">
  
- 📱 Currently Working On: Mobile applications with React Native and Expo, crafting seamless user experiences.
+ 🖥️ Currently Working On: Building dynamic web applications with Next.js, enhancing performance and scalability.
 
 🎓 Balancing Life: Pursuing my BSc degree while interning to gain hands-on experience.
 
