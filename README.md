@@ -63,7 +63,17 @@
 <div align=center>
   <img width=390 src="https://streak-stats.demolab.com/?user=chamith-kavishan&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
   <img width=390 src="https://github-readme-stats.vercel.app/api?username=chamith-kavishan&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10&token=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" alt="readme stats" />
-    [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chamith-kavishan)](https://github.com/anuraghazra/github-readme-stats)
+   <picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+</picture>
   <br/>
   <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chamith-kavishan&hide=HTML&langs_count=8&layout=compact&theme=react&count_private=true&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
