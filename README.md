@@ -3,7 +3,8 @@
 <h3 align="center">I develop things.</h3>
 
 <p align="center">
-  Websites, backends, and the occasional "why is it slow?" investigation.<br/>
+  Websites 🌐 · Systems ⚙️ · Mobile apps 📱 · and whatever else needs building.<br/>
+  I also fix the "why is it slow?" problems along the way.<br/>
   Based in Sri Lanka 🇱🇰
 </p>
 
