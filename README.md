@@ -7,7 +7,6 @@
 <p align="center">
   Websites 🌐 · Systems ⚙️ · Mobile apps 📱 · and whatever else needs building.<br/>
   I also fix the "why is it slow?" problems along the way.<br/>
-  Based in Sri Lanka 🇱🇰
 </p>
 
 <div align="center">
