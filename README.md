@@ -1,5 +1,7 @@
 <h1 align="center">Hi, I'm Chamith 👋</h1>
 
+<p align="center"><i>(or just call me <b>DARK</b> 🕶️)</i></p>
+
 <h3 align="center">I develop things.</h3>
 
 <p align="center">
