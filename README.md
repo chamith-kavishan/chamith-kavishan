@@ -4,11 +4,9 @@
 
 <br/>
 
-<div align="center">
-  <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank">
-    <img src="https://media.giphy.com/media/Ju7l5y9osyymQ/giphy.gif" alt="Never gonna give you up" width="400" />
-  </a>
-</div>
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank">
+  <img src="https://media.giphy.com/media/Ju7l5y9osyymQ/giphy.gif" alt="Never gonna give you up" width="100%" />
+</a>
 
 <br/>
 
