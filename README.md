@@ -1,7 +1,5 @@
 <h1 align="center">Hi, I'm Chamith 👋</h1>
 
-<p align="center"><i>(or just call me <b>DARK</b> 🕶️)</i></p>
-
 <br/>
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank">
