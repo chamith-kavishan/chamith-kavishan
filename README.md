@@ -1,7 +1,3 @@
-<h1 align="center">Hi, I'm Chamith 👋</h1>
-
-<br/>
-
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank">
   <img src="https://media.giphy.com/media/Ju7l5y9osyymQ/giphy.gif" alt="Never gonna give you up" width="100%" />
 </a>
